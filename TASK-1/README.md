@@ -21,5 +21,5 @@ Sponsorship Information: Details for potential sponsors.
 Frontend: HTML, CSS, JavaScript, Bootstrap
 
 ## Usage
-1.Open your browser and go to https://rishithak22.github.io/SKILLCRAFT/TASK-1/.
+1.Open your browser and go to https://rishithak22.github.io/SKILLCRAFT/TASK-1/ <br>
 2.Explore the various sections of the website.
