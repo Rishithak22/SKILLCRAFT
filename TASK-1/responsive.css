@@ -1,0 +1,114 @@
+@media(max-width:1024px){
+
+}
+@media(max-width:991px){
+    .navigation-wrap{
+        text-align: center;
+        background-color: white;
+    }
+    .navigation-wrap .nav-link{
+        line-height: 1.875rem;
+    }
+    .top-banner{
+        padding: 9.375rem 0 9.375rem;
+    }
+    .row .main-btn{
+        margin-left: 38%;
+    }
+    #oursummit .circle {
+        margin-top: 8% !important;
+        width: 50%;
+        height: 50vh;
+      }
+    #oursummit h1{
+        margin-top: 2%;
+    }
+    #highlights h1{
+        margin-top: 25%;
+        font-size: 3.2rem;
+    }
+    #highlights .box{
+        width: 60%;
+        height: 50vh;
+        overflow: auto;
+    }
+    #about .row .text h1{
+        margin-top: 15%;
+        font-size: 3.3rem;
+    }
+    #about p{
+        margin-top: 3%;
+    }
+    #about .img{
+        margin-top: -5% !important;
+        width: 50%;
+        height: 50vh;
+        margin-left: 20%;
+    }
+    #faq .container .row h1{
+        margin-top: 15%;
+        font-size: 3.3rem;
+        text-align: center;
+    }
+
+}
+@media(max-width:767px){
+    .row .main-btn {
+        margin-left: 28%;
+        margin-top: 0.5%;
+        padding: 0.3125rem 0.9375rem;
+        font-size: 0.875rem;
+    }
+    #oursummit .circle {
+        width: 60%;
+        height: 30vh;
+        padding: 5rem 0 4rem;
+      }
+    #oursummit h1{
+        margin-top: 10%;
+        font-size: 2.5rem;
+        text-align: center;
+    }
+    #oursummit #p1{
+        display: none;
+    }
+    #oursummit p{
+        margin-top: 1%;
+        font-size: 1rem;
+        text-align: center;
+    }
+    #oursummit .btn{
+        margin-left: 20%;
+    }
+    #highlights h1{
+        margin-top: 55%;
+        font-size: 2.6rem;
+        text-align: center;
+    }
+    #highlights .box{
+        width: 90%;
+        height: 40vh;
+        overflow: auto;
+    }
+    #about .row .text h1{
+        margin-top: 25%;
+        text-align: center;
+        font-size: 2.6rem;
+    }
+    #about p{
+        margin-top: 12%;
+        font-size: 1rem;
+        text-align: center;
+    }
+    #about .img{
+        width: 60%;
+        height: 30vh;
+    }
+    #faq .container .row h1{
+        font-size: 2.5rem;
+        text-align: center;
+    }
+}
+@media(max-width:330px){
+
+}
